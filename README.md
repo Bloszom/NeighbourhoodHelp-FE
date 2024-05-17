@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # NH-Frontend-sq2-.net
+=======
+# NeighbourhoodHelp-FE
+An eligible platform that helps deliver errands through agent and clients negotiations.
+>>>>>>> 6ff039a094faefe85e1cd6c7e334462d7c2176a4
